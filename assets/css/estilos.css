@@ -5,10 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/foto_diego_encabezado.jpeg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
+  background-size: 100vw 82vh;
+  background-position: center;
 }
 
 /* Mis trabajos */
